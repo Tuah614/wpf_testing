@@ -1,0 +1,15 @@
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\wpf_testing\pyRevit forms\pyRevit forms\bin\Debug\pyRevit forms.exe.config
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\wpf_testing\pyRevit forms\pyRevit forms\bin\Debug\pyRevit forms.exe
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\wpf_testing\pyRevit forms\pyRevit forms\bin\Debug\pyRevit forms.pdb
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\wpf_testing\pyRevit forms\pyRevit forms\obj\Debug\pyRevit forms.csproj.AssemblyReference.cache
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\wpf_testing\pyRevit forms\pyRevit forms\obj\Debug\MainWindow.g.cs
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\wpf_testing\pyRevit forms\pyRevit forms\obj\Debug\App.g.cs
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\wpf_testing\pyRevit forms\pyRevit forms\obj\Debug\pyRevit forms_MarkupCompile.cache
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\wpf_testing\pyRevit forms\pyRevit forms\obj\Debug\pyRevit forms_MarkupCompile.lref
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\wpf_testing\pyRevit forms\pyRevit forms\obj\Debug\MainWindow.baml
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\wpf_testing\pyRevit forms\pyRevit forms\obj\Debug\pyRevit forms.g.resources
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\wpf_testing\pyRevit forms\pyRevit forms\obj\Debug\pyRevit_forms.Properties.Resources.resources
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\wpf_testing\pyRevit forms\pyRevit forms\obj\Debug\pyRevit forms.csproj.GenerateResource.cache
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\wpf_testing\pyRevit forms\pyRevit forms\obj\Debug\pyRevit forms.csproj.CoreCompileInputs.cache
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\wpf_testing\pyRevit forms\pyRevit forms\obj\Debug\pyRevit forms.exe
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\wpf_testing\pyRevit forms\pyRevit forms\obj\Debug\pyRevit forms.pdb

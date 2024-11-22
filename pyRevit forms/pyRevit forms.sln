@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pyRevit forms", "pyRevit forms\pyRevit forms.csproj", "{D3585021-09C1-4002-9392-9EEAF1B8DFBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3585021-09C1-4002-9392-9EEAF1B8DFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3585021-09C1-4002-9392-9EEAF1B8DFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3585021-09C1-4002-9392-9EEAF1B8DFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3585021-09C1-4002-9392-9EEAF1B8DFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE96E9F4-8068-4F46-94B2-596DF5E97616}
+	EndGlobalSection
+EndGlobal
